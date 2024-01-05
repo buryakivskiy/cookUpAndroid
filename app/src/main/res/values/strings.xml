@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">CookUp</string>
+    <string name="label_back">Назад</string>
+
+    <!-- Home Tabs -->
+    <string name="home_feed">Додому</string>
+    <string name="home_search">Пошук</string>
+    <string name="home_cart">Обрані</string>
+    <string name="home_profile">Профіль</string>
+    <string name="home_signup">Реєстрація</string>
+    <string name="home_login">Авторизація</string>
+
+    <!-- Home -->
+    <string name="label_filters">Фільтри</string>
+    <string name="label_select_delivery">Select delivery address</string>
+
+    <!-- Search -->
+    <string name="search_CookUp">Пошук на CookUp</string>
+    <string name="search_no_matches">Не знайдено для “%1s”</string>
+    <string name="search_no_matches_retry">Спробуйте ще раз!</string>
+    <string name="search_count">%1d рецептів</string>
+    <string name="label_add">Додати до обраного</string>
+    <string name="label_search">Пошук</string>
+
+    <!-- Recipe Detail -->
+    <string name="detail_header">Рецепт:</string>
+    <string name="detail_placeholder">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut tempus, sem vitae convallis imperdiet, lectus nunc pharetra diam, ac rhoncus quam eros eu risus. Nulla pulvinar condimentum erat, pulvinar tempus turpis blandit ut. Etiam sed ipsum sed lacus eleifend hendrerit eu quis quam. Etiam ligula eros, finibus vestibulum tortor ac, ultrices accumsan dolor. Vivamus vel nisl a libero lobortis posuere. Aenean facilisis nibh vel ultrices bibendum. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Suspendisse ac est vitae lacus commodo efficitur at ut massa. Etiam vestibulum sit amet sapien sed varius. Aliquam non ipsum imperdiet, pulvinar enim nec, mollis risus. Fusce id tincidunt nisl.</string>
+    <string name="ingredients">Інгрідієнти:</string>
+    <string name="ingredients_list">Vanilla, Almond Flour, Eggs, Butter, Cream, Sugar</string>
+    <string name="quantity">К-сть.</string>
+    <string name="add_to_favourites">ДОДАТИ ДО ОБРАНОГО</string>
+
+    <!-- Cart -->
+    <string name="cart_order_header">Обрані (%1s)</string>
+    <plurals name="cart_order_count">
+        <item quantity="one">%1d рецепт</item>
+        <item quantity="other">%1d рецепти</item>
+    </plurals>
+    <string name="cart_summary_header">Summary</string>
+    <string name="cart_subtotal_label">Subtotal</string>
+    <string name="cart_shipping_label">Shipping &amp; Handling</string>
+    <string name="cart_total_label">Total</string>
+    <string name="cart_checkout">Checkout</string>
+    <string name="cart_increase_error">There was an error and the quantity couldn\'t be increased. Please try again.</string>
+    <string name="cart_decrease_error">There was an error and the quantity couldn\'t be decreased. Please try again.</string>
+    <string name="label_remove">Видалити рецепт</string>
+
+    <!-- Quantity Selector -->
+    <string name="label_increase">Increase</string>
+    <string name="label_decrease">Decrease</string>
+    <string name="work_in_progress">Це ще у процесі розробки</string>
+    <string name="grab_beverage">Побачимось знову!</string>
+    <string name="see_more">БІЛЬШЕ</string>
+    <string name="see_less">ПРИХОВАТИ</string>
+    <string name="remove_item">Видалити рецепт</string>
+    <string name="reset">Оновити</string>
+    <string name="sort">Сортувати</string>
+    <string name="price">Ціна</string>
+    <string name="category">Категорія</string>
+    <string name="max_calories">Max Calories</string>
+    <string name="lifestyle">LifeStyle</string>
+    <string name="per_serving">per serving</string>
+    <string name="android_favorites">Найпоширеніші:</string>
+    <string name="rating">Rating</string>
+    <string name="alphabetical">Alphabetical</string>
+    <string name="close">Close</string>
+
+</resources>
